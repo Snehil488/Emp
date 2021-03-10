@@ -1,0 +1,9 @@
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\bin\Debug\netstandard2.0\EmployeeManagement.Models.deps.json
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\bin\Debug\netstandard2.0\EmployeeManagement.Models.dll
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\bin\Debug\netstandard2.0\EmployeeManagement.Models.pdb
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.csprojAssemblyReference.cache
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.AssemblyInfoInputs.cache
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.AssemblyInfo.cs
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.dll
+C:\Users\Snehil\source\repos\EmployeeManagement.Models\obj\Debug\netstandard2.0\EmployeeManagement.Models.pdb
